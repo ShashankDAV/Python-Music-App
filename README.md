@@ -1,1 +1,1 @@
-# Python-Music-App
+# Music App in Python Using Tkinter
